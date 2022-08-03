@@ -25,3 +25,6 @@ In this repositry, you can find projects on various sub categories of Machine Le
 1. Titanic - Machine Learning From Disaster
 2. Breast Cancer Detection - Wisconsin Breast Cancer Dataset
 3. Credit Score Classification
+
+#### Regression Projects:
+1. Boston House Price Prediction
