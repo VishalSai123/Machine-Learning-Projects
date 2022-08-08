@@ -31,3 +31,6 @@ The other 30 numeric measurements comprise the mean, standard error and worst (i
 8. Concave Points
 9. Symmetry
 10. Fractal dimension
+
+## Conclusion
+The best model for this project is Stacking Classifier with a model accuracy of 98.25 percent, a model recall of 95.56 percent, and a validation accuracy of 97.6 percent.
