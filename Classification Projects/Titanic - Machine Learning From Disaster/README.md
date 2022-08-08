@@ -39,3 +39,6 @@ Below are the description of the features in the data:
 - Cabin: Cabin number
 - Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
 
+## Conclusion
+
+The best model for this problem is Stacking Classifier with a test accuracy of 78.468 percent.
