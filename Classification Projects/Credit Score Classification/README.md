@@ -20,3 +20,6 @@ Train.csv will contain the details of a subset of the customers and importantly,
 The `test.csv` dataset contains similar information but does not disclose the “ground truth” for each customer. It’s your job to predict these outcomes.
 
 Using the patterns you find in the train.csv data, predict whether the credit score of the customers in the test.csv data is either poor, standard, and good.
+
+## Conclusion:
+The best model for this problem is Stacking Classifier with a model accuracy of 81.02 percent, a model precision of 80.98 percent, and a model recall of 81.02 percent.
