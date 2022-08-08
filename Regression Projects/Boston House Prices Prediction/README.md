@@ -35,3 +35,7 @@ Each record in the database describes a Boston suburb or town. The data was draw
 14. MEDV: Median value of owner-occupied homes in $1000s
 
 We can see that the input attributes have a mixture of units. Here, the target variable is MEDV.
+
+## Conclusion
+
+The best model for this problem is XG Boost Regression with a Root Mean Squared Error (RMSE) value of 5.045.
