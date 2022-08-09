@@ -19,7 +19,7 @@ Machine Learning is broadly divided into 3 categories. They are:
 3. <b>Reinforcement Learning:</b> Reinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error.
 
 ## Projects:
-In this repositry, you can find projects on various sub categories of Machine Learning like Classification, Regression, Clustering, Association Rule Mining, Recommendation Systems, Reinforcement Learning. 
+In this repositry, you can find projects on various sub categories of Machine Learning like Classification, Regression, Clustering, Association Rule Mining. 
 
 #### Classification Projects:
 1. Titanic - Machine Learning From Disaster
