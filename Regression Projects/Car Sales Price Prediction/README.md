@@ -40,4 +40,4 @@ We can see that the input attributes have a mixture of units. Here, the target v
 
 ## Conclusion
 
-The best model for this problem is Ridge Regression with a Root Mean Squared Error (RMSE) value of 4.245 and an R-squared value of 0.926.
+The best model for this problem is Linear Regression with a Root Mean Squared Error (RMSE) value of 4.245 and an R-squared value of 0.926.
