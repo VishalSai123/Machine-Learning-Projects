@@ -30,3 +30,4 @@ In this repositry, you can find projects on various sub categories of Machine Le
 1. Boston House Price Prediction
 2. Car Price Prediction Challenge
 3. Car Sales Price Prediction
+4. Health Insurance Price Prediction
