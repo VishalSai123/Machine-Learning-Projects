@@ -31,3 +31,6 @@ In this repositry, you can find projects on various sub categories of Machine Le
 2. Car Price Prediction Challenge
 3. Car Sales Price Prediction
 4. Health Insurance Price Prediction
+
+#### Clustering Projects:
+1. Mall Customer Segmentation Data
