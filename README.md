@@ -34,3 +34,4 @@ In this repositry, you can find projects on various sub categories of Machine Le
 
 #### Clustering Projects:
 1. Mall Customer Segmentation Data
+2. Credit Card Segmentation using Clustering and RFM Analysis
